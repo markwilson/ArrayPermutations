@@ -1,0 +1,18 @@
+{
+    "name": "markwilson/array-permutation",
+    "type": "library",
+    "require-dev": {},
+    "authors": [
+        {
+            "name": "Mark Wilson",
+            "email": "mark@89allport.co.uk"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "ArrayPermutation\\": "./src"
+        }
+    }
+}
