@@ -1,17 +1,17 @@
 <?php
 
-namespace ArrayPermutation;
+namespace ArraySubsets;
 
 /**
- * Generate a set of array permutations
+ * Generate all possible subsets of an array
  *
- * @package ArrayPermutation
+ * @package ArraySubsets
  * @author  Mark Wilson <mark@89allport.co.uk>
  */
 class Generator
 {
     /**
-     * Generate the permutations
+     * Generate the subsets
      *
      * @return \Generator
      */

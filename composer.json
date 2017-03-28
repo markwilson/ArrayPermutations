@@ -1,5 +1,5 @@
 {
-    "name": "markwilson/array-permutation",
+    "name": "markwilson/array-subsets",
     "type": "library",
     "require-dev": {},
     "authors": [
@@ -12,7 +12,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "ArrayPermutation\\": "./src"
+            "ArraySubsets\\": "./src"
         }
     }
 }
